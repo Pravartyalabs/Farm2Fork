@@ -114,7 +114,7 @@ A comprehensive multilingual web platform featuring AWS AI-powered safety analys
 ### 🎯 AWS AI for Bharat Hackathon Flow (2-3 minutes)
 
 1. **Login** :
-   - Mobile: +919876543210
+   - Mobile: +91xx......
    - OTP: 0000 (fixed for demo - scales to AWS SNS SMS)
 
 2. **Plan Treatments with AI** :

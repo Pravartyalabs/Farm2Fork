@@ -1,7 +1,7 @@
 # Farm2Fork
 AI-driven farm-to-plate transparency platform using OCR, safety analysis, and QR verification to build trust in food.
 
-# 🇮🇳 AI-Powered Farmer QR Traceability System - AWS AI for Bharat Hackathon
+#  AI-Powered Farmer QR Traceability System - AWS AI for Bharat Hackathon
 
 A comprehensive multilingual web platform featuring AWS AI-powered safety analysis, advanced OCR capabilities, and complete farm-to-consumer transparency. Built for the AWS AI for Bharat Hackathon to showcase India's agricultural technology innovation using cutting-edge AWS AI services.
 

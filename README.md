@@ -245,10 +245,3 @@ alembic downgrade -1
 
 This project is licensed under the MIT License. See LICENSE file for details.
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes with appropriate tests
-4. Ensure all tests pass
-5. Submit a pull request
